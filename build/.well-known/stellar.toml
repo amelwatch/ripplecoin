@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+"GBD6ZRR7HVE3QPIQ2F7JTCTRI65TVL5DIJTRZV26U5UARUV7SL4RRKXV"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Nexus"
-ORG_URL="https://nexus.io/"
-ORG_DESCRIPTION="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-ORG_TWITTER="@NexusOfficial"
-ORG_LOGO="https://i.ibb.co/gy3QHfq/nexus.jpg"
-ORG_OFFICIAL_EMAIL="nexuscommunity@gmail.com"
+ORG_NAME="Ripple Coin"
+ORG_URL="https://ripple.com/"
+ORG_DESCRIPTION="Due to the digital nature of cryptocurrencies, our coins provide an excellent opportunity to "physically" present this intriguing invention of the 21st century. It can also be a helpful tool in introducing other people to the topic of digital money, as well as a hit gift for the crypto-enthusiast! Payments are made only with XRP."
+ORG_TWITTER="@Ripple"
+ORG_LOGO="https://i.ibb.co/YXMbw7m/ripplecoin.png"
+ORG_OFFICIAL_EMAIL="ripplecoin@gmail.com"
 
 
 [[CURRENCIES]]
 code="NXS"
-issuer="GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+issuer="GBD6ZRR7HVE3QPIQ2F7JTCTRI65TVL5DIJTRZV26U5UARUV7SL4RRKXV"
 anchor_asset="false"
 name="Nexus"
-desc="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-conditions=""
-image="https://i.ibb.co/gy3QHfq/nexus.jpg"
+desc="Due to the digital nature of cryptocurrencies, our coins provide an excellent opportunity to "physically" present this intriguing invention of the 21st century. It can also be a helpful tool in introducing other people to the topic of digital money, as well as a hit gift for the crypto-enthusiast! Payments are made only with XRP."
+conditions="Don't forget to follow us on Twitter where we distribute Ripple Coins each week"
+image="https://i.ibb.co/YXMbw7m/ripplecoin.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#NXS was issued using the open and inclusive Stellar blockchain network.
+#RippleCoin was issued using the open and inclusive Stellar blockchain network.
