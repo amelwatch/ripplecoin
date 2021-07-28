@@ -15,10 +15,10 @@ ORG_OFFICIAL_EMAIL="ripplecoin@gmail.com"
 
 
 [[CURRENCIES]]
-code="NXS"
+code="RippleCoin"
 issuer="GBD6ZRR7HVE3QPIQ2F7JTCTRI65TVL5DIJTRZV26U5UARUV7SL4RRKXV"
 anchor_asset="false"
-name="Nexus"
+name="Ripple Coin"
 desc="Due to the digital nature of cryptocurrencies, our coins provide an excellent opportunity to "physically" present this intriguing invention of the 21st century. It can also be a helpful tool in introducing other people to the topic of digital money, as well as a hit gift for the crypto-enthusiast! Payments are made only with XRP."
 conditions="Don't forget to follow us on Twitter where we distribute Ripple Coins each week"
 image="https://i.ibb.co/YXMbw7m/ripplecoin.png"
