@@ -8,7 +8,7 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="Ripple Coin"
 ORG_URL="https://ripple.com/"
-ORG_DESCRIPTION="Due to the digital nature of cryptocurrencies, our coins provide an excellent opportunity to "physically" present this intriguing invention of the 21st century. It can also be a helpful tool in introducing other people to the topic of digital money, as well as a hit gift for the crypto-enthusiast! Payments are made only with XRP."
+ORG_DESCRIPTION="Due to the digital nature of cryptocurrencies, our coins provide an excellent opportunity to physically present this intriguing invention of the 21st century. It can also be a helpful tool in introducing other people to the topic of digital money, as well as a hit gift for the crypto-enthusiast! Payments are made only with XRP."
 ORG_TWITTER="@Ripple"
 ORG_LOGO="https://i.ibb.co/YXMbw7m/ripplecoin.png"
 ORG_OFFICIAL_EMAIL="ripplecoin@gmail.com"
